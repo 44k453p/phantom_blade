@@ -659,7 +659,7 @@ def pilih_indo():
 	print '\033[1;97m[\033[1;93m🍒\033[1;97m] \033[1;97mCP file tersimpan : out/ind1.txt'
 	print "\033[1;34m████████████████████████████████████████████████"
 	raw_input("\033[1;93m[\033[1;97m Kembali \033[1;93m]")
-	os.system("python2 Indonesia.py")
+	os.system("python2 SYBER-PUNK.py")
 	
 
 	
